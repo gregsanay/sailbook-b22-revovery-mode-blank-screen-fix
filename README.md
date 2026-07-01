@@ -137,7 +137,7 @@ If this guide helped you, or if you discovered another solution for the SAILbook
 
 ## License
 
-This documentation is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) License.
+This documentation is licensed under the [Creative Commons Attribution 1.0 International (CC BY 1.0)](https://creativecommons.org/licenses/by/1.0/) License.
 
 ## Keywords
 
